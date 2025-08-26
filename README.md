@@ -126,7 +126,3 @@ This project was designed as a **bridge between data & policy**:
 ---
 
 💡 *This dashboard is not just visuals—it’s an attempt to show how **data science can shape real-world policy decisions.*** 🌍📈
-
----
-
-Would you like me to also craft a **short GitHub repo description (1-liner)** like we did for your Job Market repo, so it looks clean in search results?
